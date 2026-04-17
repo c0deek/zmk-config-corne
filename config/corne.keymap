@@ -18,7 +18,7 @@
         };
 
         right_parenth {
-            bindings = <&kp RIGHT_BRACE>;
+            bindings = <&kp RIGHT_PARENTHESIS>;
             key-positions = <7 8>;
         };
 
